@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to left, #8600FA, #000000 );
+}
+h1{
+    text-align: center;
+    color: white;
+    padding: 30px;
+    text-shadow: 10px 10px 10px 10px rgb(255, 255, 255);
+}
+#titulo{
+    
+    text-align: left;
+    color: #7E4450;
+    background-color: azure;
+    padding: 20px 20px 20px 20px;
+    box-sizing: 20px 20px 20px 20px;
+    width: 600px;
+    height: 3350px;
+    margin: auto;
+    box-shadow: 2px 2px 2px 2px black;
+    min-height: 300px;
+    max-width: 3000px;
+    min-width: 100px;
+}
+.SP{
+color: #000000;
+
+}
+.tex{
+color: #000000;
+font-size: large;
+}
+.second{
+    color: #000000;
+    font-size: large;
+    min-height: 00px;
+    max-width: 3000px;
+}
+.treis{
+    color: #000000;
+    font-size: large;
+    min-height: 00px;
+    max-width: 3000px;
+
+}
+.four{
+    color: #000000;
+    font-size: large;
+    min-height: 00px;
+    max-width: 3000px;
+    min-width: 300px;
+}
+.oi{
+    color: #000000;
+}
+header{
+    background-color: #000000ce;
+    border-radius: 14px 14px 14px 14px;
+    min-height: 300px;
+    max-width: 3000px;
+}
+.meteo{
+    color: #000000;
+    font-size: large;
+}
+.ora{
+    color: #000000;
+}
+.seles{
+    color: #000000;
+}
+.alkk{color: #000000;
+    font-size: large;
+}
+.trailer{
+    color: #000000;
+    
+}
+#Home{
+    margin-left: -1250px;
+    max-width: 3000px;
+}
+
+#ENDOP{
+    margin-left: -1000px;
+color: #551A8B;
+text-decoration: none;
+}
+
